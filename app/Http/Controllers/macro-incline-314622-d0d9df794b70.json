@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "voiptella-texttospeech",
+  "private_key_id": "b7d3d389055daac646a0a269ceac96b52e64e726",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbxw0/1Fc8jvuc\noO5HNmN/Eho/2gyP6673XqitgjZQ1Lf7L047SEdoeenDbpfPWOJFjiHidzSfyWlY\nEynk8x/bISwOGnsdPMQUgBMfTzv40d1R5ojY9G4ImQiQPcZ9VS3uiMXXacDPUr2J\n6z8DwHYiXiTPBuDqHwokNgazgY/2kBJz9IF+zZ3kjgz/5rLEt5XgDT+vkfW2G3YX\nTZLfAlfVyPUTpkQUpPiN9OUnv9eSQjWyrKyMqR1Hnru8khZ3GnnSufEfhThxsb/x\nDOVptMQVmbyKPXB9DwqUsfeNYi1ydBKge3h3xgFHzZIoFp3E+xc6VmJ7j8e4/2MO\nvgMPh+6/AgMBAAECggEAJ6qYBRjc3d7K0ydnhVqkG0dQx9GOQVeSRgskiIoPqqV/\n88Yn9ZCCHmhszgbrQTEw7OU0W6ZfEBEJchPvJw2BnxrjTPQRRXCjvVSfielzK/jE\nkoZRcm1LV4UgWRph4Kg/+e1581BKeIBpIyVz9lCbxESUuuLVgshEnNPlAPCM6AuB\n80J7aeZG8YUgEmg0d2EBi974WbtGhXvz57rsMK8crFOgB8qNAycjSTn5yT+xU+7l\n1nLd/NSWwhH69CpDE05mdWlTCStTEcGfNxDvQdbLHZEBX6bzyxJb6y7y6JgggOf3\nNRM4LAMwymJPLQCQVn+rc+GiDigduglKkQ9tXYQRgQKBgQDJCpz5rqukhBoEzuO6\nTLL3waEfEax3rSBo4XqeowHlpwUE5PtfAARlSUmlMcPYTdOaUcQUjU3xoCCsC1cw\n+AUQOIfIujn/bVj0Y5FcbLAFdaoIIk+wsfQe4P33GtyvVec4Q1tkaO0nzkQxOgeZ\nzz8ZDwMg8IDVeoCC/CSBHSbApQKBgQDGXMGVXjhL+O93giCQZ/roiW3H4Joi9ojG\ndyFvwtLVaar1aC9cpd4VWVQSA1amXDyhrZl9/CA1XrTXZBR+7/dRfXtqoLeFpA9k\nVQcYxu15V5benNE5gOLaEUv2RLMBiCvHBNmteTI9p2MwGMUtVPebMzlkpSpA/8yc\nao+2w7kQkwKBgQCzlJxl1+YQncPUGa6IIq0W7Mpsw0/I00gJB6iNfdRa/JdaKOR1\nlsFWbGGxg0OKuvJSfclmBlbiiAPHSpYG8vUq6SQ5ZEgcZuO34hzdb2TIa7OHcoa2\nsi77SkTxbvhEUrqoolpH1gZJsVFum4RgmySk0Kkdyld62eNjnbFJ9+0+1QKBgCrD\nupRqQLbYT0AzlLOtRyG05y8NVA2vmuM2scW3ed66rjnEIVnXBJ8TqBVOFPM+tW+h\nzpKjtYnsBg7dq7GGKIqwA9iEF6y/JvZZgnMsB+x+Hq+VnWHJUJ701aydOP5ejhmV\nCRzmIRe7q52l6XSReeRC0d/J3+ctfr5GFv+vCInzAoGAfLeuY8SnHW7LEpkreFIr\nvY4cR76vBjHtysVmjb3n3j5oB0rpi313lGUnT8GjT51ZW0gMwC2ozgUQ6nB5yBDw\nFG0qtRuwBO9zJx9mbpXYoFhX2cvjWNm43of4gRTFF5WbUcFNJ8L06T4LQcu3HQVE\nVfV6ZGEiHmn7GAd6RShUzlU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "voiptella-speechtotext@voiptella-texttospeech.iam.gserviceaccount.com",
+  "client_id": "103048066060467843325",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voiptella-speechtotext%40voiptella-texttospeech.iam.gserviceaccount.com"
+}
+
